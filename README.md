@@ -1,6 +1,6 @@
 # Hi, I'm João Augusto 👋
   
-- 📐 I'm studying the 3rd year of the IT technician at UTFPR - Campo Mourão
+- 📐 I'm studying the 4rd year of the IT technician at UTFPR - Campo Mourão
 
 - 🌱 I’m currently learning JavaScript and Java.
 
