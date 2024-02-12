@@ -16,17 +16,9 @@
   [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/joaoaugusto.nascimento.77/)
 </div>
 
-
-<h2 align="center" style="margin-bottom: 1rem"> ⚙️ Github Analytics</h2>
-
 <p align="center">
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoAN2&show_icons=true&hide=issues,contribs&theme=dracula" alt="JoaoAN2's stats"/>
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoAN2&layout=compact&theme=dracula" alt="JoaoAN2's most languages"/>
+<img  src=".github/joaoan2-github-contribution.svg" />
 </p>
-
-<br><br>
-
----
 
 ## 📚 Knowledges
 
