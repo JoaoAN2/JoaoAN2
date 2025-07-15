@@ -19,9 +19,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/joaoan2-github-contribution-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset=".github/joaoan2-github-contribution.svg" />
-  <img alt="github-snake" src=".github/joaoan2-github-contribution.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset=".github/dist/joaoan2-github-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=".github/dist/joaoan2-github-contribution.svg" />
+  <img alt="github-snake" src=".github/dist/joaoan2-github-contribution.svg" />
 </picture>
 </p>
 
