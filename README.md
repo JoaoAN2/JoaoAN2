@@ -73,8 +73,6 @@ Saiba onde me encontrar:
 * 💼 **LinkedIn:** [linkedin.com/in/joão-do-nascimento](https://www.linkedin.com/in/jo%C3%A3o-do-nascimento/)
 * ✉️ **E-mail:** [joao@nascimento.dev.br](mailto:joao@nascimento.dev.br)
 
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-joaonascimento/dev-joaonascimento/output/dev-joaonascimento-github-contribution-dark.svg" />
