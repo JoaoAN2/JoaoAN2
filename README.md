@@ -59,7 +59,7 @@ Motor de busca em linha de comando baseado em índice invertido, processamento t
 
 ## 📫 Contato
 
-Sinta-se à vontade para entrar em contato e trocar ideias sobre desenvolvimento mobile, integração com hardware, agritech e engenharia de software:
+Saiba onde me encontrar:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-do-nascimento/" target="_blank">
