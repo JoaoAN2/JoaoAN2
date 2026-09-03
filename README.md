@@ -2,25 +2,7 @@
 
 Desenvolvedor de Software e estudante de Bacharelado em Ciência da Computação na **UTFPR** (Câmpus Campo Mourão), com formação no Curso Técnico Integrado em Informática pela mesma instituição.
 
-Gosto de trabalhar na intersecção entre **software, hardware e o mundo real** — construindo pontes entre código e máquinas para resolver problemas práticos e gerar impacto concreto no campo.
-
----
-
-## 🚜 O que faço atualmente
-
 Atualmente atuo na **AppMoove** no desenvolvimento e na sustentação de soluções de **GPS guia para agricultura de precisão**.
-
-Minha rotina envolve integrar aplicações nativas a equipamentos, sensores e receptores GPS utilizados em campo, contribuindo para a confiabilidade e a precisão das operações agrícolas.
-
----
-
-## 🛠️ No que estou trabalhando
-
-* **Aplicações Android & Hardware:** desenvolvimento nativo com Kotlin, integrado ao barramento CAN, comunicação serial, sensores e receptores GPS.
-* **Persistência & Streaming:** persistência e processamento de dados com SQLite, incluindo a otimização de operações agrícolas extensas por meio de streaming, além da exportação de dados geoespaciais no formato Shapefile.
-* **Funcionalidades para o Campo:** manutenção e evolução de funcionalidades relacionadas a GPS guia, linhas de referência, controle de seções, monitoramento de sementes, configuração de pulverizadores e gestão de talhões e bordas.
-* **Confiabilidade & Diagnóstico:** investigação e correção de problemas identificados em operações reais de campo.
-* **Componentes em Rust:** manutenção e integração de componentes em Rust utilizados pela aplicação.
 
 ---
 
@@ -41,7 +23,7 @@ Minha rotina envolve integrar aplicações nativas a equipamentos, sensores e re
 
 ---
 
-## 🌐 Experiência complementar
+## 🌐 Outras experiências
 
 Antes de direcionar minha atuação para aplicações mobile integradas a hardware no agronegócio, construí uma base em desenvolvimento Full Stack e infraestrutura:
 
@@ -53,27 +35,25 @@ Antes de direcionar minha atuação para aplicações mobile integradas a hardwa
 
 ## 🚀 Projetos em destaque
 
-Aqui estão alguns projetos que desenvolvi ou participei da arquitetura e implementação:
+### [APAR — Associação Portas Abertas](https://apar-psi.vercel.app/)
 
-### 🌟 [APAR — Associação Portas Abertas](https://apar-psi.vercel.app/)
-Plataforma web institucional e de gestão para a Associação Portas Abertas de Campo Mourão (PR), com foco em impacto social, acessibilidade digital inclusiva e gestão interna.
-* **Tecnologias:** Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS v4, tRPC v11, Prisma ORM, PostgreSQL e Better Auth.
-* **Destaques:** Acessibilidade de nível governamental com tradução em VLibras (GOV.BR) e toolbar flutuante com modo Alto Contraste (padrão e-MAG), além de API totalmente *type-safe* ponta a ponta.
-* 🌐 **Status:** Em produção em [apar-psi.vercel.app](https://apar-psi.vercel.app/) *(repositório institucional privado)*.
+Website institucional desenvolvido individualmente para uma associação de Campo Mourão, com apresentação de projetos, galeria, canais de contribuição e recursos de acessibilidade como VLibras e alto contraste.
 
----
+`Next.js` `React` `TypeScript` `Tailwind CSS` `tRPC` `Prisma` `PostgreSQL`
 
-### 🎬 [RatingHub](https://github.com/dev-joaonascimento/RatingHub)
-API RESTful para catálogo, curadoria e avaliação de filmes e séries, projetada com foco em modelagem relacional e boas práticas de desenvolvimento backend.
-* **Tecnologias:** Node.js, TypeScript, Express, Prisma ORM e PostgreSQL.
-* **Destaques:** Autenticação e autorização via JWT com controle de acesso baseado em papéis (RBAC), validação rigorosa de esquemas e documentação estruturada de rotas.
+> Aplicação em produção; código-fonte mantido em repositório privado.
 
----
+### [RatingHub](https://github.com/dev-joaonascimento/RatingHub)
 
-### 🔍 [Mecanismo de Indexação de Arquivos](https://github.com/dev-joaonascimento/Mecanismo-de-Indexacao-de-Arquivos)
-Aplicação em linha de comando (CLI) que implementa um motor de busca para documentos de texto utilizando índice invertido e persistência binária customizada em disco.
-* **Tecnologias:** C++17, Make e estruturas de dados STL.
-* **Destaques:** Foco em fundamentos de computação, I/O binário de baixo nível, eficiência no uso de memória e buscas rápidas (~4µs por consulta).
+API REST para catálogo e avaliação de filmes e séries, com autenticação JWT, controle de acesso por papéis e modelagem relacional.
+
+`Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL`
+
+### [Mecanismo de Indexação de Arquivos](https://github.com/dev-joaonascimento/Mecanismo-de-Indexacao-de-Arquivos)
+
+Motor de busca em linha de comando baseado em índice invertido, processamento textual e serialização binária.
+
+`C++17` `STL` `Make`
 
 ---
 
