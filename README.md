@@ -43,13 +43,13 @@ Website institucional desenvolvido individualmente para uma associação de Camp
 
 > Aplicação em produção; código-fonte mantido em repositório privado.
 
-### [RatingHub](https://github.com/dev-joaonascimento/RatingHub)
+### [RatingHub](https://github.com/joaoa-nascimento/RatingHub)
 
 API REST para catálogo e avaliação de filmes e séries, com autenticação JWT, controle de acesso por papéis e modelagem relacional.
 
 `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL`
 
-### [Mecanismo de Indexação de Arquivos](https://github.com/dev-joaonascimento/Mecanismo-de-Indexacao-de-Arquivos)
+### [Mecanismo de Indexação de Arquivos](https://github.com/joaoa-nascimento/Mecanismo-de-Indexacao-de-Arquivos)
 
 Motor de busca em linha de comando baseado em índice invertido, processamento textual e serialização binária.
 
@@ -75,8 +75,8 @@ Saiba onde me encontrar:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-joaonascimento/dev-joaonascimento/output/dev-joaonascimento-github-contribution-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-joaonascimento/dev-joaonascimento/output/dev-joaonascimento-github-contribution.svg" />
-    <img alt="Animação de contribuições do GitHub" src="https://raw.githubusercontent.com/dev-joaonascimento/dev-joaonascimento/output/dev-joaonascimento-github-contribution.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoa-nascimento/joaoa-nascimento/output/joaoa-nascimento-github-contribution-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoa-nascimento/joaoa-nascimento/output/joaoa-nascimento-github-contribution.svg" />
+    <img alt="Animação de contribuições do GitHub" src="https://raw.githubusercontent.com/joaoa-nascimento/joaoa-nascimento/output/joaoa-nascimento-github-contribution.svg" />
   </picture>
 </div>
