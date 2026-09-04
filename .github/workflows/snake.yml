@@ -26,12 +26,12 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: joaoa-nascimento
+          github_user_name: joao-do-nascimento
           outputs: |
-            dist/joaoa-nascimento-github-contribution.svg
-            dist/joaoa-nascimento-github-contribution-dark.svg?palette=github-dark
-            dist/joaoa-nascimento-github-contribution.svg
-            dist/joaoa-nascimento-github-contribution-dark.svg?palette=github-dark
+            dist/joao-do-nascimento-github-contribution.svg
+            dist/joao-do-nascimento-github-contribution-dark.svg?palette=github-dark
+            dist/joao-do-nascimento-github-contribution.svg
+            dist/joao-do-nascimento-github-contribution-dark.svg?palette=github-dark
           
           
       # push the content of <build_dir> to a branch
