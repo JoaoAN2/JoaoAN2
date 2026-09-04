@@ -17,7 +17,7 @@ Atualmente atuo na **AppMoove** no desenvolvimento e na sustentação de soluç�
 </p>
 
 * **Linguagens & Plataformas:** Kotlin (Android nativo), Rust
-* **Persistência & Dados:** SQLite (foco em streaming e processamento de dados)
+* **Persistência & Dados:** SQLite
 * **Comunicação com Hardware:** Barramento CAN, comunicação serial (incluindo RS-232), sensores e receptores GPS
 * **Versionamento & Ambiente:** Git, GitHub e Linux
 
